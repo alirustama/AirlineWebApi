@@ -1,0 +1,6 @@
+flask
+Jinja2
+html
+CSS
+Chart.js
+Python

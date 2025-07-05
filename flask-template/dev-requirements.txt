@@ -1,0 +1,7 @@
+-r requirements.txt      #includes main app dependencies
+pytest #for running test
+pytest-flask # Flask specific testing
+coverage #for mesaring test coverage
+flake8 #for linting and code style checks
+black # for automatic code formatting
+
